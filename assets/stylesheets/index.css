@@ -1,0 +1,119 @@
+.cover-container{
+width: 100%;
+padding-left: 0px;
+padding-right: 0px;
+// background:url('../images/cover-image.jpeg');
+}
+
+
+
+.cover-image{
+position: relative;
+width: 100%;
+height: 700px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.header {
+	position: absolute;
+	width: 100%;
+	top: 0px; 
+   left: 0; 
+   color: #ffffff;
+   font-weight: 500;
+   font-family: "PT Sans";
+  font-size: 14px;
+  background-color: #E5002D;
+  align-items: center;
+}
+
+.title {
+	line-height: 1;
+	margin-top: 2%;
+	margin-left: 20%;
+
+}
+
+.founders{
+	display: inline-block;
+	padding-top: 1.1%;
+	text-align: right;
+	// margin-right: 20%;
+}
+
+.investors{
+	display: inline-block;
+	padding-top: 1.1%;
+	text-align: center;
+}
+
+.list-startup{
+    display: inline-block;
+	padding-top: 1.1%;
+	background-color: #f53e44;
+	text-align: right;
+}
+
+.user-icon{
+    display: inline-block;
+	margin-top: 1.2%;
+}
+
+.icons{
+	margin-top: 2%;
+}
+
+.fa-stack-1x {
+    color:white;
+    font-size: 0.7em;
+}
+
+.icon-food,.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book {
+   color:#E5002D;
+   font-size: 3em;
+   float: left;
+}
+
+.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book{
+	margin-left: 5.3%;
+}
+
+.icon-with-text{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.caption {
+    display: block;
+    color: #6c6c6c;
+}
+
+.icon-food-text{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.icon-finance-text{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin-left: 6%;
+}
+
+.ecommerce-container{
+	background-color: #e7e7e7;
+	width: 100%;
+	margin-top: 1%;
+}
+
+.ecommerce-title{
+	margin-top: 3%;
+    margin-left: 4%;
+    font-size: 18px;
+    color: #6c6c6c;
+
+}
