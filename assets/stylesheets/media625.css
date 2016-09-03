@@ -1,0 +1,28 @@
+@media only screen and (min-width: 625px) and (max-width: 767px){
+
+ .title {
+    margin-top: 13%;
+  }
+
+ .list-startup {
+    padding-top: 1.8%;
+}
+
+.founders, .investors {
+    padding-top: 3.1%;
+}
+
+.icon-food,.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book {
+   font-size: 2em;
+  }
+
+  .icon-with-text {
+    margin-left: 1.7%;
+ }
+
+ .ecommerce-cards-text{
+    width: 83%;
+    left: 18.5%;
+  }
+
+}

@@ -1,0 +1,16 @@
+@media only screen and (min-width: 510px) and (max-width: 624px){
+
+  .list-startup {
+    padding-top: 3.8%;
+}
+
+.icon-with-text {
+    margin-left: 1.7%;
+ }
+
+ .ecommerce-cards-text{
+    width: 80%;
+    left: 19.5%;
+  }
+
+}

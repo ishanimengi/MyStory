@@ -1,0 +1,157 @@
+@media only screen and (min-width: 400px) and (max-width: 767px) {
+ 
+  .title {
+    margin-top: 24%;
+}
+
+ .list-startup {
+    text-align: left;
+    font-size: 12px;
+    padding-top: 0.8%;
+ }
+
+ .founders,.investors{
+    padding-top: 6.1%;
+    font-size: 12px;
+}
+
+ ::-webkit-input-placeholder {
+    font-size: 0px;
+  }
+
+  .filters{
+  	padding-left: 1%;
+    padding-top: 4%;
+    font-size: 9px;
+  }
+
+  .fa-caret-down {
+    padding-left: 6%;
+}
+
+  .glyphicon-search {
+    font-size: 1.1em;
+}
+
+  .icon-food,.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book {
+   font-size: 1em;
+   float: none;
+  }
+
+  .icon-with-text {
+    margin-left: 0%;
+ }
+
+ .caption {
+    font-size: 10px;
+}
+
+ .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
+	width: 157px;
+	height: 150px;
+  }
+
+ .ecommerce-cards-text{
+    width: 74%;
+    left: 22%;
+  }
+
+  .company-name {
+    bottom: 50%;
+    font-size: 10px;
+}
+
+  .date{
+    display: none;
+  }
+
+  .likes{
+  	top: 50%;
+    left: 5%;
+    font-size: 8px;
+  }
+
+  .views{
+  	 left: 43%;
+  	 top: 49%;
+    font-size: 8px;
+  }
+
+  .fa-briefcase,.fa-usd,.fa-line-chart,.fa-thumbs-up{
+  	font-size: 0.7em;
+  }
+
+  .venture-capitalists {
+    padding-left: 1%;
+ }
+
+  .table>tbody>tr>td {
+	font-size: 8px;
+    padding: 5px;
+ }
+
+ .review-image {
+    height: 65px;
+    width: 65px;
+}
+
+  .review-icon {
+    top: 13%;
+    left: 71%;
+ }
+
+ .comment {
+    font-size: 11px;
+}
+
+ .articles-image {
+    margin-left: 5%;
+    height: 240px;
+  }
+
+  .articles-content-one,.articles-content-two{
+   left: 26%;
+    font-size: 15px;
+    top: 65%;
+    width: 65px;
+    word-wrap: break-word;
+  }
+
+  .content-line-two{
+	display: none;
+  }
+
+  .footer-left-content {
+    margin-left: 1%;
+ }
+
+  .copyright {
+    font-size: 10px;
+  }
+
+  .app-store{
+  	font-size: 9px;
+  }
+
+  .app-store-icon {
+    width: 53%;
+  }
+
+  .google-play{
+  	width: 53%;
+    top: 232%;
+    left: 9%;
+  }
+
+  .social-media-icons {
+    position: absolute;
+    top: 127%;
+    left: 0%;
+  }
+
+.footer-right-content-one,.footer-right-content-two{
+    font-size: 9px;
+    line-height: 1;
+ }
+
+}

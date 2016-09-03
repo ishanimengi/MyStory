@@ -1,5 +1,7 @@
 body {
 	overflow-x: hidden;
+	min-width: 400px;
+	width:100%;
 }
 
 .cover-container{
@@ -283,7 +285,7 @@ input[type="text"] {
 
 .ecommerce-cards-text{
 	position: absolute;
-    width: 240px;
+    width: 77%;
     top: 81.5%;
     left: 15.5%;
     background-color: white;
@@ -416,9 +418,14 @@ tbody td{
 	text-align: center;
 }
 
+.review-image{
+	height: 120px;
+	width: 120px;
+}
+
 .review-icon{
 	position: absolute;
-    top: 42%;
+    top: 37%;
     left: 63%;
     border: 2px solid #e7e7e7;
     border-radius: 50%;
@@ -427,11 +434,11 @@ tbody td{
 .review-images .fa-stack-1x{
 	background-color: #E5002D;
 	border-radius: 50%;
-	font-size: 1em;
+	font-size: 0.7em;
 }
 
 .person-name{
-	margin-top: 6%;
+	margin-top: 12%;
     color: #E5002D;
 }
 
@@ -469,8 +476,8 @@ tbody td{
 .articles-content-one,.articles-content-two{
 	position: absolute;
 	width: 100%;
-	top: 205px; 
-   left: 62px; 
+	top: 55%; 
+   left: 20%; 
    color: #ffffff;
    font-weight: 900;
    font-family: "PT Sans";

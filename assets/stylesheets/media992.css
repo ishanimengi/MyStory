@@ -1,0 +1,40 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+ .icon-food,.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book {
+   font-size: 2em;
+  }
+
+  .ecommerce-cards-text{
+    width: 83.2%;
+    left: 16.7%;
+  }
+
+  .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
+	width: 200px;
+  }
+
+  .articles-image {
+    margin-left: 5%;
+  }
+
+  .articles-content-one,.articles-content-two{
+   left: 16%; 
+  }
+
+  .content-line-two{
+	width: 227px;
+  }
+
+  .copyright {
+    font-size: 12px;
+  }
+
+  .app-store-icon {
+    right: 59%;
+  }
+
+.footer-right-content-one,.footer-right-content-two{
+    font-size: 12px;
+ }
+
+}

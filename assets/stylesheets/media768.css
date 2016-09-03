@@ -1,0 +1,89 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+   .list-startup {
+    text-align: left;
+    font-size: 12px;
+    padding-top: 1.8%;
+ }
+
+ ::-webkit-input-placeholder {
+  font-size: 11px;
+  }
+
+  .filters{
+  	padding-left: 1%;
+    padding-top: 2%;
+    font-size: 13px;
+  }
+
+  .icon-food,.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book {
+   font-size: 1.5em;
+   float: none;
+  }
+
+  .icon-with-text {
+    margin-left: 2.7%;
+ }
+
+ .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
+	width: 157px;
+  }
+
+ .ecommerce-cards-text{
+    width: 85%;
+    left: 17%;
+  }
+
+  .date{
+    left: 57%;
+    bottom: 66%;
+  }
+
+  .views{
+  	 left: 37%;
+  }
+
+  .review-icon {
+    top: 35%;
+    left: 67%;
+ }
+
+ .articles-image {
+    margin-left: 5%;
+  }
+
+  .articles-content-one,.articles-content-two{
+   left: 16%; 
+   font-size: 15px;
+   top: 62%;
+  }
+
+  .content-line-two{
+	width: 168px;
+  }
+
+  .footer-left-content {
+    margin-left: 1%;
+ }
+
+  .copyright {
+    font-size: 10px;
+  }
+
+  .app-store-icon {
+    right: 59%;
+  }
+
+  .social-media-icons {
+    margin-top: 61%;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+  }
+
+.footer-right-content-one,.footer-right-content-two{
+    font-size: 11px;
+    line-height: 1;
+ }
+
+}
