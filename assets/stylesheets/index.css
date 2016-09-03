@@ -236,6 +236,7 @@ input[type="text"] {
 	background-color: #e7e7e7;
 	width: 100%;
 	margin-top: 1%;
+	padding-bottom: 4%;
 }
 
 .ecommerce-title{
@@ -246,12 +247,28 @@ input[type="text"] {
     font-family: "PT Sans";
 }
 
+// .fa-arrow-left{
+// 	position: absolute;
+//     top: 137%;
+//     left: 92%;
+//     font-size: 1em;
+//     color: grey;
+// }
+
+// .fa-arrow-right{
+// 	position: absolute;
+//     top: 137%;
+//     left: 95%;
+// }
+
 .flipkart-image{
 	height: 250px;
 	width: 239px;
 	margin-left: 12%;
 	margin-bottom: 20%;
 	position: relative;
+	border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
 }
 
 .snapdeal-image,.amazon-image,.shopclues-image{
@@ -260,22 +277,28 @@ input[type="text"] {
 	margin-left: 12%;
 	margin-bottom: 20%;
 	position: relative;
+	border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
 }
 
 .ecommerce-cards-text{
 	position: absolute;
-	width: 240px;
-	top: 59%;
+    width: 240px;
+    top: 81.5%;
     left: 15.5%;
+    background-color: white;
+    height: 21%;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
 }
 
-.well-lg {
-    padding: 34px;
+.well-test {
+    background-color: white;
 }
 
 .company-name{
 	position: absolute;
-    bottom: 70%;
+    bottom: 65%;
     left: 5%;
     font-weight: 800;
     font-family: "PT Sans";
@@ -284,14 +307,14 @@ input[type="text"] {
 .date{
 	position: absolute;
     left: 66%;
-    bottom: 71%;
+    bottom: 69%;
     font-size: 11px;
     font-family: "PT Sans";
 }
 
 .likes{
 	position: absolute;
-    top: 45%;
+    top: 48%;
     left: 5%;
     font-size: 12px;
     font-family: "PT Sans";
@@ -300,7 +323,7 @@ input[type="text"] {
 .views{
 	position: absolute;
     left: 34%;
-    top: 45%;
+    top: 48%;
     font-size: 12px;
     font-family: "PT Sans";
 }
@@ -447,7 +470,7 @@ tbody td{
 	position: absolute;
 	width: 100%;
 	top: 205px; 
-   left: 66px; 
+   left: 62px; 
    color: #ffffff;
    font-weight: 900;
    font-family: "PT Sans";
@@ -462,7 +485,7 @@ tbody td{
 .content-line-two{
 	font-size: 12px;
 	font-weight: 200;
-	width: 240px;
+	width: 236px;
 	word-wrap: break-word;
 	padding-right: 8%;
 }
