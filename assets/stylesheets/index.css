@@ -107,7 +107,7 @@ input[type="text"] {
 
 .circles{
 	position: absolute;
-	top: 70%;
+	bottom: 52%;
     left: 42%;
    width: 100px;
 	height: 100px;
@@ -167,8 +167,7 @@ input[type="text"] {
 
 .circle-five{
 	position: absolute;
-	top: 70%;
-    left: 42%;
+	top: 244%;
    width: 100px;
 	height: 100px;
 	background: #ffffff;
@@ -179,8 +178,8 @@ input[type="text"] {
 
 .circle-six{
 	position: absolute;
-	top: 70%;
-    left: 42%;
+	top: 176%;
+    right: 104%;
    width: 100px;
 	height: 100px;
 	background: #ffffff;
@@ -391,12 +390,13 @@ tbody td{
 
 .review-images{
 	padding-top: 2%;
+	text-align: center;
 }
 
 .review-icon{
 	position: absolute;
-    top: 74%;
-    left: 52%;
+    top: 42%;
+    left: 63%;
     border: 2px solid #e7e7e7;
     border-radius: 50%;
 }
@@ -405,6 +405,17 @@ tbody td{
 	background-color: #E5002D;
 	border-radius: 50%;
 	font-size: 1em;
+}
+
+.person-name{
+	margin-top: 6%;
+    color: #E5002D;
+}
+
+.comment{
+	font-size: 12px;
+    font-style: italic;
+    color: grey;
 }
 
 .articles-container{
