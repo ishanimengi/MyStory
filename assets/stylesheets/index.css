@@ -207,7 +207,11 @@ input[type="text"] {
    float: left;
 }
 
-.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-finance,.icon-hardware,.icon-book{
+.icon-ecommerce,.icon-heart,.icon-cloud,.icon-plus,.icon-hardware,.icon-book{
+	margin-left: 2.3%;
+}
+
+.icon-finance{
 	margin-left: 5.3%;
 }
 
