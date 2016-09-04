@@ -238,7 +238,7 @@ input[type="text"] {
 	background-color: #e7e7e7;
 	width: 100%;
 	margin-top: 1%;
-	padding-bottom: 4%;
+	padding-bottom: 7%;
 }
 
 .ecommerce-title{
@@ -264,9 +264,12 @@ input[type="text"] {
 // }
 
 .flipkart-image{
-	height: 250px;
-	width: 239px;
-	margin-left: 12%;
+	// height: 250px;
+	// width: 246px;
+	// width: 100%;
+	// width: auto;
+	// height: auto;
+	// margin-left: 12%;
 	margin-bottom: 20%;
 	position: relative;
 	border-top-right-radius: 7px;
@@ -274,9 +277,11 @@ input[type="text"] {
 }
 
 .snapdeal-image,.amazon-image,.shopclues-image{
-	height: 250px;
-	width: 239px;
-	margin-left: 12%;
+	// height: 250px;
+	// width: 246px;
+	// width: 100%;
+	// height: auto;
+	// margin-left: 12%;
 	margin-bottom: 20%;
 	position: relative;
 	border-top-right-radius: 7px;
@@ -285,11 +290,11 @@ input[type="text"] {
 
 .ecommerce-cards-text{
 	position: absolute;
-    width: 77%;
-    top: 81.5%;
-    left: 15.5%;
+    width: 88%;
+    top: 75.5%;
+    left: 5.5%;
     background-color: white;
-    height: 21%;
+    height: 36%;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
@@ -300,7 +305,7 @@ input[type="text"] {
 
 .company-name{
 	position: absolute;
-    bottom: 65%;
+    bottom: 59%;
     left: 5%;
     font-weight: 800;
     font-family: "PT Sans";
@@ -309,14 +314,14 @@ input[type="text"] {
 .date{
 	position: absolute;
     left: 66%;
-    bottom: 69%;
+    bottom: 60%;
     font-size: 11px;
     font-family: "PT Sans";
 }
 
 .likes{
 	position: absolute;
-    top: 48%;
+    top: 59%;
     left: 5%;
     font-size: 12px;
     font-family: "PT Sans";
@@ -325,7 +330,7 @@ input[type="text"] {
 .views{
 	position: absolute;
     left: 34%;
-    top: 48%;
+    top: 58%;
     font-size: 12px;
     font-family: "PT Sans";
 }
@@ -360,7 +365,7 @@ input[type="text"] {
 }
 
 .angel-investors{
-	padding-left: 0%;
+	padding-left: 4%;
 	font-family: "PT Sans";
 	font-weight: 700;
 	margin-top: 1%;

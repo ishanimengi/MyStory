@@ -25,13 +25,13 @@
     margin-left: 2.7%;
  }
 
- .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
-	width: 157px;
-  }
+ // .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
+	// width: 157px;
+ //  }
 
  .ecommerce-cards-text{
     width: 85%;
-    left: 17%;
+    left: 7%;
   }
 
   .date{

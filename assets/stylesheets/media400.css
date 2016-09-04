@@ -46,14 +46,14 @@
     font-size: 10px;
 }
 
- .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
-	width: 157px;
-	height: 150px;
-  }
+ // .flipkart-image,.snapdeal-image,.amazon-image,.shopclues-image{
+	// width: 157px;
+	// height: 150px;
+ //  }
 
  .ecommerce-cards-text{
-    width: 74%;
-    left: 22%;
+    width: 73%;
+    left: 14%;
   }
 
   .company-name {
@@ -87,7 +87,7 @@
 
   .table>tbody>tr>td {
 	font-size: 8px;
-    padding: 5px;
+    padding: 4px;
  }
 
  .review-image {
