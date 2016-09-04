@@ -241,11 +241,11 @@ input[type="text"] {
 	width: 100%;
 	margin-top: 1%;
 	padding-bottom: 7%;
+	padding-left: 5%;
 }
 
 .ecommerce-title{
 	margin-top: 3%;
-    margin-left: 4%;
     font-size: 18px;
     color: #6c6c6c;
     font-family: "PT Sans";
@@ -264,9 +264,9 @@ input[type="text"] {
 
 .ecommerce-cards-text{
 	position: absolute;
-    width: 88%;
-    top: 75.5%;
-    left: 5.5%;
+    width: 90%;
+    top: 77.5%;
+    left: 5%;
     background-color: white;
     height: 36%;
     border-bottom-left-radius: 7px;
@@ -291,6 +291,8 @@ input[type="text"] {
     bottom: 60%;
     font-size: 11px;
     font-family: "PT Sans";
+    color: #d8d8d8;
+    font-weight: 900;
 }
 
 .likes{
@@ -299,14 +301,16 @@ input[type="text"] {
     left: 5%;
     font-size: 12px;
     font-family: "PT Sans";
+    color: #6c6c6c;
 }
 
 .views{
 	position: absolute;
     left: 34%;
-    top: 58%;
+    top: 59%;
     font-size: 12px;
     font-family: "PT Sans";
+    color: #6c6c6c;
 }
 
 .likes>.fa-heart{
