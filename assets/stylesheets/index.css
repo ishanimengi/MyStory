@@ -249,39 +249,11 @@ input[type="text"] {
     font-family: "PT Sans";
 }
 
-// .fa-arrow-left{
-// 	position: absolute;
-//     top: 137%;
-//     left: 92%;
-//     font-size: 1em;
-//     color: grey;
-// }
-
-// .fa-arrow-right{
-// 	position: absolute;
-//     top: 137%;
-//     left: 95%;
-// }
-
-.flipkart-image{
-	// height: 250px;
-	// width: 246px;
-	// width: 100%;
-	// width: auto;
-	// height: auto;
-	// margin-left: 12%;
-	margin-bottom: 20%;
-	position: relative;
-	border-top-right-radius: 7px;
-    border-top-left-radius: 7px;
+.coloured-content{
+	color:#E5002D;
 }
 
-.snapdeal-image,.amazon-image,.shopclues-image{
-	// height: 250px;
-	// width: 246px;
-	// width: 100%;
-	// height: auto;
-	// margin-left: 12%;
+.ecommerce-image{
 	margin-bottom: 20%;
 	position: relative;
 	border-top-right-radius: 7px;
@@ -362,6 +334,10 @@ input[type="text"] {
 	font-family: "PT Sans";
 	font-weight: 700;
 	margin-top: 1%;
+}
+
+.darker-content{
+	color:#6c6c6c;
 }
 
 .angel-investors{
